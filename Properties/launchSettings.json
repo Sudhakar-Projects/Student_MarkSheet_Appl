@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Student_MarkSheet_Appl": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
